@@ -5,7 +5,7 @@
     <Style id="poly-0288D1-1-255-normal">
       <LineStyle>
         <color>ffd18802</color>
-        <width>4</width>
+        <width>2</width>
       </LineStyle>
       <PolyStyle>
         <color>ffd18802</color>
@@ -15,11 +15,11 @@
     </Style>
     <Style id="poly-0288D1-1-255-highlight">
       <LineStyle>
-        <color>ff0000ff</color>
-        <width>4</width>
+        <color>501478ff</color>
+        <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>ff0000ff</color>
+        <color>501478ff</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
