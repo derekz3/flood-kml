@@ -15,11 +15,11 @@
     </Style>
     <Style id="poly-0288D1-1-255-highlight">
       <LineStyle>
-        <color>ffd18802</color>
+        <color>ff0000ff</color>
         <width>4</width>
       </LineStyle>
       <PolyStyle>
-        <color>ffd18802</color>
+        <color>ff0000ff</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
