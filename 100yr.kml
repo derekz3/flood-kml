@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns="http://earth.google.com/kml/2.1">
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"> -->
   <Document>
     <name>SOURCE_CIT_06037C_FIRM1</name>
     <Style id="poly-0288D1-1-255-normal">
