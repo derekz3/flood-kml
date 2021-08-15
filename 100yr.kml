@@ -7,22 +7,22 @@
     <Style id="poly-0288D1-1-255-normal">
       <LineStyle>
         <color>ffd18802</color>
-        <width>0.001</width>
+        <width>0.0005</width>
       </LineStyle>
       <PolyStyle>
         <color>ffd18802</color>
-        <fill>0.2</fill>
-        <outline>0</outline>
+        <fill>1</fill>
+        <outline>1</outline>
       </PolyStyle>
     </Style>
     <Style id="poly-0288D1-1-255-highlight">
       <LineStyle>
         <color>ffd18802</color>
-        <width>0.0015</width>
+        <width>0.0005</width>
       </LineStyle>
       <PolyStyle>
         <color>ffd18802</color>
-        <fill>0.2</fill>
+        <fill>0</fill>
         <outline>0</outline>
       </PolyStyle>
     </Style>
