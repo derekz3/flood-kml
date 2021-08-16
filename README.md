@@ -12,17 +12,19 @@ BLocKers:
 
 * [Google Maps KML Capabilities](https://geopointe.force.com/help/s/article/My-KML-Layer-has-data-but-is-not-appearing-on-the-Map-What-s-Wrong#:~:text=Information&text=There%20are%20a%20couple%20of,not%20appearing%20on%20the%20Map%3A&text=Fortunately%2C%20there%20is%20a%20workaround,be%20compatible%20with%20Google%20Maps.)  
     * Google Maps has certain capabilities when it comes to processing (and being able to display) KMLs. In order to ensure that Google Maps is capable of rendering our KML, we need to ensure that all the tags that we use belong to [Google's list of supported elements](https://developers.google.com/maps/documentation/javascript/kmllayer#supported-elements%E2%80%8B), i.e. remove any unsupported elements. An easy workaround is to upload the file to [Google My Maps](https://mymaps.google.com/), then export it out as a KML. The exported KML will be compatible with Google Maps.  
-    * Well, not quite. We still have to make a couple edits. First, the first two lines of the KML need to be:  
+    * Well, not quite. We still have to make a couple edits.  
+    
+    First, the first two lines of the KML need to be:  
     
     ```
         <?xml version="1.0" encoding="UTF-8"?>
         <kml xmlns="http://earth.google.com/kml/2.1">
     ```
-     
+
     in order for the file to be recognized as compatible with Google Maps.  
 
     Next, we need some proper styling, so the polygons don't look awful. 
-    For that, the <<code>Style</code>> block should look as follows:
+    For that, the <<code>Style</code>> block should look as follows:  
 
     ```
         <Style id="poly-0288D1-1-255-normal">
