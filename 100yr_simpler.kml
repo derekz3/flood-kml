@@ -26,7 +26,7 @@
     </StyleMap>
     <Style id="poly-0288D1-1-235-normal">
       <LineStyle>
-        <color>ffd18802</color>
+        <color>64FFFFFF</color>
         <width>0.001</width>
       </LineStyle>
       <PolyStyle>
@@ -37,7 +37,7 @@
     </Style>
     <Style id="poly-0288D1-1-235-highlight">
       <LineStyle>
-        <color>ffd18802</color>
+        <color>64FFFFFF</color>
         <width>0.0015</width>
       </LineStyle>
       <PolyStyle>

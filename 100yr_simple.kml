@@ -4,13 +4,13 @@
     <name>100yr_simple</name>
     <Style id="line-9C27B0-1200-normal">
       <LineStyle>
-        <color>ffb0279c</color>
+        <color>64FFFFFF</color>
         <width>0.001</width>
       </LineStyle>
     </Style>
     <Style id="line-9C27B0-1200-highlight">
       <LineStyle>
-        <color>ffb0279c</color>
+        <color>64FFFFFF</color>
         <width>0.0015</width>
       </LineStyle>
     </Style>
