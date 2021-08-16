@@ -7,7 +7,7 @@ Unblockers:
 BLocKers:
 
 * [Hosting KML on Public Webserver](https://stackoverflow.com/questions/28212176/hosting-kml-files-on-public-webserver)
-    * Lots of solutions are offered, but I chose to mimic what I found in the sample application associated with the Maps JavaScript API documentation by the layers we want to display in a github repo (although I didn't archive the repo). [*This is our kml storage repo*](https://github.com/derekz3/flood-kml).   
+    * Lots of solutions are offered, but I chose to mimic what I found in the sample application associated with the Maps JavaScript API documentation by the layers we want to display in a github repo (although I didn't archive the repo). [This *is* our kml storage repo](https://github.com/derekz3/flood-kml).   
 
 * [Google Maps KML Compatibility](https://geopointe.force.com/help/s/article/My-KML-Layer-has-data-but-is-not-appearing-on-the-Map-What-s-Wrong#:~:text=Information&text=There%20are%20a%20couple%20of,not%20appearing%20on%20the%20Map%3A&text=Fortunately%2C%20there%20is%20a%20workaround,be%20compatible%20with%20Google%20Maps.)  
     * Google Maps has certain capabilities when it comes to processing (and being able to display) KMLs. In order to ensure that Google Maps is capable of rendering our KML, we need to ensure that all the tags that we use belong to [Google's list of supported elements](https://developers.google.com/maps/documentation/javascript/kmllayer#supported-elements%E2%80%8B), i.e. remove any unsupported elements. An easy workaround is to upload the file to [Google My Maps](https://mymaps.google.com/), then export it out as a KML. The exported KML will be compatible with Google Maps.  
