@@ -4,22 +4,22 @@
     <name>layer100plain</name>
     <Style id="poly-0288D1-1-255-normal">
       <LineStyle>
-        <color>5a1478ff</color>
+        <color>5f1478ff</color>
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>5a1478ff</color>
+        <color>5f1478ff</color>
         <fill>1</fill>
         <outline>0</outline>
       </PolyStyle>
     </Style>
     <Style id="poly-0288D1-1-255-highlight">
       <LineStyle>
-        <color>5a1478ff</color>
+        <color>5f1478ff</color>
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>5a1478ff</color>
+        <color>5f1478ff</color>
         <fill>1</fill>
         <outline>0</outline>
       </PolyStyle>
