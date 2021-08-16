@@ -24,7 +24,7 @@ BLocKers:
     in order for the file to be recognized as compatible with Google Maps.  
 
     Next, we need some proper styling, so the polygons don't look awful. 
-    For that, the <<code>Style</code>> block should look as follows:  
+    For that, the `<Style>` block should look as follows:  
 
     ```
         <Style id="poly-0288D1-1-255-normal">
