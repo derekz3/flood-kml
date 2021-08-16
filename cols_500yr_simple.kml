@@ -4,22 +4,22 @@
     <name>500yr_simple_subset2</name>
     <Style id="poly-0288D1-1-173-normal">
       <LineStyle>
-        <color>3c5078F0</color>
+        <color>467882F0</color>
         <width>0.001</width>
       </LineStyle>
       <PolyStyle>
-        <color>3c5078F0</color>
+        <color>467882F0</color>
         <fill>1</fill>
         <outline>0</outline>
       </PolyStyle>
     </Style>
     <Style id="poly-0288D1-1-173-highlight">
       <LineStyle>
-        <color>3c5078F0</color>
+        <color>467882F0</color>
         <width>0.0015</width>
       </LineStyle>
       <PolyStyle>
-        <color>3c5078F0</color>
+        <color>467882F0</color>
         <fill>1</fill>
         <outline>0</outline>
       </PolyStyle>
