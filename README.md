@@ -54,9 +54,9 @@ BLocKers:
         </Style>
     ```  
     
-        * `<fill>`: Boolean value. Specifies whether to fill the polygon.  
-        * `<outline>`: Boolean value. Specifies whether to outline the polygon. Polygon outlines use the current LineStyle.  
-        * `<color>` and `<width>` of line self-explanatory.
+    * `<fill>`: Boolean value. Specifies whether to fill the polygon.  
+    * `<outline>`: Boolean value. Specifies whether to outline the polygon. Polygon outlines use the current LineStyle.  
+    * `<color>` and `<width>` of line self-explanatory.
 
     * Reference these sites for coloring:  
         * [A simple color KML / RGB color converter](http://netdelight.be/kml/index.php)  
