@@ -4,24 +4,24 @@
     <name>100yr_simple_dissolved_qgis</name>
     <Style id="poly-3949AB-1-255-normal">
       <LineStyle>
-        <color>ffab4939</color>
+        <color>50F00014</color>
         <width>0.001</width>
       </LineStyle>
       <PolyStyle>
-        <color>ffab4939</color>
+        <color>50F00014</color>
         <fill>1</fill>
-        <outline>1</outline>
+        <outline>0</outline>
       </PolyStyle>
     </Style>
     <Style id="poly-3949AB-1-255-highlight">
       <LineStyle>
-        <color>ffab4939</color>
+        <color>50F00014</color>
         <width>0.0015</width>
       </LineStyle>
       <PolyStyle>
-        <color>ffab4939</color>
+        <color>50F00014</color>
         <fill>1</fill>
-        <outline>1</outline>
+        <outline>0</outline>
       </PolyStyle>
     </Style>
     <StyleMap id="poly-3949AB-1-255">
