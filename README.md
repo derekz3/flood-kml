@@ -49,7 +49,7 @@ BLocKers:
         </Style>
     ```
 
-* [Size/Complexity Restrictions](https://developers.google.com/maps/documentation/javascript/kmllayer#restrictions), [TLDR](https://stackoverflow.com/questions/42149489/kml-layer-not-displaying-on-map)  
+* [Size/Complexity Restrictions](https://developers.google.com/maps/documentation/javascript/kmllayer#restrictions), [[*TLDR*]](https://stackoverflow.com/questions/42149489/kml-layer-not-displaying-on-map)  
     * The Google Maps JavaScript API has limitations to the size and complexity of loaded KML files. Most notably for us, the maximum fetched file size of a raw KML or compressed KMZ is only 3MB (the 100 year flood plain alone is over 30MB), the maximum uncompressed KML file size is 10MB, and there is a limit on the number of KML Layers that can be displayed on a single Google Map. the number of layers you can add will vary by application; on average, you should be able to load between 10 and 20 layers without hitting the limit. If you still hit the limit, use a URL shortener to shorten the KML URLs. Alternatively, create a single KML file consisting of NetworkLinks to the individual KML URLs.  
     * For best performance, it is recommended that we:  
         * Generate the files before they will be needed, and serve them statically (if it takes a long time for your server to transmit the KML file, the KmlLayer may not display).  
