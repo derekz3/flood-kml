@@ -10,7 +10,7 @@
       <PolyStyle>
         <color>de5252ff</color>
         <fill>1</fill>
-        <outline>1</outline>
+        <outline>0</outline>
       </PolyStyle>
     </Style>
     <Style id="poly-FF5252-1-222-highlight">
@@ -21,7 +21,7 @@
       <PolyStyle>
         <color>de5252ff</color>
         <fill>1</fill>
-        <outline>1</outline>
+        <outline>0</outline>
       </PolyStyle>
     </Style>
     <StyleMap id="poly-FF5252-1-222">
