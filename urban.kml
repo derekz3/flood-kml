@@ -4,11 +4,11 @@
 <name>Simplified</name>
 <Style id="style1">
 	<LineStyle>
-		<color>9931d6f9</color>
+		<color>6631d6f9</color>
 		<width>0.001</width>
 	</LineStyle>
 	<PolyStyle>
-		<color>9931d6f9</color>
+		<color>6631d6f9</color>
 		<fill>1</fill>
 		<outline>0</outline>
 	</PolyStyle>
